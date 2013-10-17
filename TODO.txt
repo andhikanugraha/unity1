@@ -1,0 +1,54 @@
+IF3111 Platform-Based Development
+Tugas 2: Eksplorasi Game Engine
+
+# Deadline
+Jumat, 18 Oktober 2013
+17.00 WIB
+
+# TODO
+
+Fitur:
+[X] First-person controller
+[Y] Terrain
+[Y] Skybox
+[ ] Camera - smooth transition untuk perpindahan 2 view point
+[Y] Light
+[Y] Windzone
+[?] Collider
+
+Deliverables:
+[ ] Dokumen:
+	[ ] Deskripsi game
+	[ ] Rancangan game (skematik)
+	[ ] Translasi rancangan game ke implementasi dalam Unity
+	[ ] Daftar elemen-elemen yang dieksplorasi dan penjelasannya (what and how)
+	[ ] Daftar anggota topik dan modul/topik bahasan yang jadi tanggung jawabnya
+[ ] Source code
+[ ] Executable code
+
+# Spesifikasi asli
+
+1.  Game dikembangkan di/dengan lingkungan unity
+2.  Game hanya terdiri atas 1 level/scene, 3 Dimensi
+3.  Game harus menggunakan minimal elemen:
+	a. First Person Controller
+	b. Terrain
+	c. Skybox
+	d. Camera - smooth transition untuk perpindahan 2 view point,  
+	e. Light,
+	f. Windzone,
+	g. Collider 
+
+Pembagian kelompok, dan  penyetoran tugas:
+
+1.  Kelompok terdiri atas maksimal 3 orang, dengan anggota kelompok yang berbeda dengan Tugas Besar I (sebelumnya)
+2.  Tugas dikumpulkan Jumat, 18 Oktober 2013, 17.00
+3.  Deliverable:
+	a. Dokumen: minimal berisi
+	   (1) deskripsi game,
+	   (2) rancangan game (skematik),
+	   (3) translasi rancangan game ke implementasi dalam unity,
+	   (4) daftar elemen-elemen yang diekplorasi dan penjelasanya (what and how)
+	   (5) daftar anggota tim dan modul/topik bahasan yang jadi tanggung jawabnya. Dokumen dibuatantara 15-20 halaman, 1 spasi.
+	b. Source Code (termasuk resources/assets)
+	c. Executable Code
